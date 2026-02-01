@@ -1,10 +1,7 @@
 {
   "name": "ISM Data Science 2026",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
-  "features": {
-    "ghcr.io/astral-sh/uv-devcontainer-feature/uv:latest": {}
-  },
-  "postCreateCommand": "uv sync",
+  "postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && ~/.local/bin/uv sync",
   "customizations": {
     "vscode": {
       "extensions": [
