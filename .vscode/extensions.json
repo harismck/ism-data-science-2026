@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "ms-python.python",
-    "ms-toolsai.jupyter",
-    "GitHub.vscode-pull-request-github"
+    "ms-toolsai.jupyter"
   ]
 }
