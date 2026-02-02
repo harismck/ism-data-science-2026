@@ -6,32 +6,36 @@ Welcome to the 2026 ISM data science course! This is the repository via which al
 
 ### Option 1: Local Setup (Recommended)
 
-1. Clone this repo: `git clone <repo-url>`
-2. Open the project in VS Code
+This option requires the most work on your part, but it will teach you how to set up a development environment that you will be able to use in projects to come.
+
+1. Download and install [VS Code](https://code.visualstudio.com/download).
+2. Open VS Code and click Clone Git Repository. Enter the URL to this repository: `https://github.com/harismck/ism-data-science-2026`. You might also have to [install Git](https://git-scm.com/install/) in order to complete this step.
 3. Install recommended extensions (see below)
 4. Open terminal in VS Code
 5. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 6. Run `uv sync` to install dependencies
-7. Open `notebooks/01_intro/getting_started.ipynb` and run it
+7. Open `notebooks/lectures/01_intro/getting_started.ipynb` and run it
 
 ### Option 2: GitHub Codespaces - Browser (Easiest)
+
+This is the easiest option, as all computations happen remotely, so you do not need to set up any Python packages locally.
 
 1. Click the green **Code** button above
 2. Select **Codespaces** tab
 3. Click **Create codespace on main**
 4. Wait for setup to complete
 5. Install recommended extensions (see below)
-6. Open `notebooks/01_intro/getting_started.ipynb` and run it.
+6. Open `notebooks/lectures/01_intro/getting_started.ipynb` and run it
 
 ### Option 3: GitHub Codespaces in VS Code
 
 This allows you to run on Codespaces but use your local VS Code editor.
 
 1. Download and install [VS Code](https://code.visualstudio.com/download)
-2. Follow Option 1, steps 1-5
+2. Follow Option 2, steps 1-5
 3. On GitHub, click the **...** menu next to your Codespace → **Open in Visual Studio Code**
 4. VS Code will prompt to install the Codespaces extension - click Install
-5. Open `notebooks/01_intro/getting_started.ipynb` and run it
+5. Open `notebooks/lectures/01_intro/getting_started.ipynb` and run it
 
 ## VS Code Extensions
 
@@ -48,4 +52,4 @@ When you open a notebook for the first time, VS Code will ask you to select a ke
 
 ## Accessing Course Data
 
-All course data is in a remote file storage. Sometimes I might ask you to download the most recent data, in which case you should go to `notebooks/01_intro/getting_started.ipynb` notebook and run its first cell.
+All course data is in a remote file storage. Sometimes I might ask you to download the most recent data, in which case you should go to `notebooks/lectures/01_intro/getting_started.ipynb` notebook and run its first cell.
