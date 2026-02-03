@@ -791,6 +791,7 @@ name = "ism-data-science-2026"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "certifi" },
     { name = "duckdb" },
     { name = "ipykernel" },
     { name = "ipywidgets" },
@@ -808,6 +809,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "certifi", specifier = ">=2024.0.0" },
     { name = "duckdb", specifier = ">=1.0.0" },
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "ipywidgets", specifier = ">=8.1.8" },
