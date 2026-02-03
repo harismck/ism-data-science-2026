@@ -52,7 +52,7 @@ If you don't see the prompt, install manually:
 
 Before and after lectures I will share notebooks with you. You will need to pull these notebooks into your local repository:
 
-1. Open the Source Control panel (click the branch icon in the left sidebar, or Cmd+Shift+G / Ctrl+Shift+G).
+1. Open the Source Control panel in VS Code (click the branch icon in the left sidebar, or Cmd+Shift+G / Ctrl+Shift+G).
 2. Click the **...** menu (three dots) at the top of the panel.
 3. Click **Pull**.
 
