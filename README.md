@@ -2,14 +2,6 @@
 
 Welcome to the 2026 ISM data science course! This is the repository via which all course notebooks will be shared. You can also use this repository for homeworks.
 
-## Workflow
-
-Before and after lectures I will share notebooks with you. You will need to pull these notebooks into your local repository:
-
-1. Open the Source Control panel (click the branch icon in the left sidebar, or Cmd+Shift+G / Ctrl+Shift+G).
-2. Click the **...** menu (three dots) at the top of the panel.
-3. Click **Pull**.
-
 ## Quick Start
 
 ### Option 1: Local Setup (Recommended)
@@ -55,6 +47,14 @@ If you don't see the prompt, install manually:
 1. Open Command Palette (Cmd+Shift+P on Mac, Ctrl+Shift+P on Windows/Linux).
 2. Run: `Extensions: Show Recommended Extensions`.
 3. Click the cloud icon to install all.
+
+## Workflow
+
+Before and after lectures I will share notebooks with you. You will need to pull these notebooks into your local repository:
+
+1. Open the Source Control panel (click the branch icon in the left sidebar, or Cmd+Shift+G / Ctrl+Shift+G).
+2. Click the **...** menu (three dots) at the top of the panel.
+3. Click **Pull**.
 
 ## Selecting the Python Kernel
 
