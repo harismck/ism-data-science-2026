@@ -55,6 +55,9 @@ Before and after lectures I will share notebooks with you. You will need to pull
 1. Open the Source Control panel in VS Code (click the branch icon in the left sidebar, or Cmd+Shift+G / Ctrl+Shift+G).
 2. Click the **...** menu (three dots) at the top of the panel.
 3. Click **Pull**.
+4. If you see an error saying something about merge conflicts, go to the same source control section and discard changes made to `getting_started.ipynb` by clicking Discard Changes arrow (see picture below).
+
+![Discard Changes](assets/discard_changes.png)
 
 ## Selecting the Python Environment
 
