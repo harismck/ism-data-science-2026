@@ -56,7 +56,7 @@ Before and after lectures I will share notebooks with you. You will need to pull
 2. Click the **...** menu (three dots) at the top of the panel.
 3. Click **Pull**.
 
-## Selecting the Python Kernel
+## Selecting the Python Environment
 
 When you open a notebook for the first time, VS Code will ask you to select an environment. Choose the project environment (marked with a star in the dropdown) from the list. You'll need to do this once for each new notebook you open.
 
