@@ -19,4 +19,5 @@ dependencies = [
     "lightgbm>=4.6.0",
     "streamlit>=1.53.1",
     "certifi>=2024.0.0",
+    "statsmodels>=0.14.6",
 ]
